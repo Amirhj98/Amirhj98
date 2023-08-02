@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amir
+- 👀 I’m interested in creative development
+- 🌱 I’m currently learning front-end development
+- 📫 gmail: amirhaddadjadidi98@gmail.com
